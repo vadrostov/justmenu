@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/justmenu.iml" filepath="$PROJECT_DIR$/justmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/justmenu-assets.iml" filepath="$PROJECT_DIR$/assets/justmenu-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/justmenu-core.iml" filepath="$PROJECT_DIR$/core/justmenu-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/justmenu-java.iml" filepath="$PROJECT_DIR$/java/justmenu-java.iml" />
+    </modules>
+  </component>
+</project>
